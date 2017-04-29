@@ -30,7 +30,7 @@
 </ul>
 
 <h3>Red Beans and Rice</h3>
-<img src="images/Red_beans_and_rice.jpn" alt="Red Beans and Rice">
+<img src="images/Red_beans_and_rice.jpg" alt="Red Beans and Rice">
 <ul>
   <li>1/2 pound dry kidney beans</li>
   <li>water to cover the beans</li>
