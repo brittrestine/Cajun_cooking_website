@@ -8,7 +8,7 @@
 </section>
 <body>
 <h2>Jambalaya</h2>
-<img src="image/jambalaya.jpg" alt="Jambalaya">
+<img src="images/jambalaya.jpg" alt="Jambalaya">
 <ul>
   <li>4 whole bay leaves</li>
   <li>1 teaspoon salt</li>
@@ -30,7 +30,7 @@
 </ul>
 
 <h3>Red Beans and Rice</h3>
-<img src="Red_beans_and_rice.jpn" alt="Red Beans and Rice">
+<img src="images/Red_beans_and_rice.jpn" alt="Red Beans and Rice">
 <ul>
   <li>1/2 pound dry kidney beans</li>
   <li>water to cover the beans</li>
