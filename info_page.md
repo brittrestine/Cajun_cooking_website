@@ -3,12 +3,11 @@
 <head>
   <title>Info Page</title>
 </head>
-<section>
-  <h1>Cajun Recipes</h1>
-</section>
 <body>
-<h2>Jambalaya</h2>
+<h1>Cajun Recipes</h1>
 <img src="images/jambalaya.jpg" alt="Jambalaya">
+<p>Original image from <a href="http://thewoksoflife.com/2015/06/shrimp-etouffee/"></a>The woks of life.</p>
+<h2>Jambalaya</h2>
 <ul>
   <li>4 whole bay leaves</li>
   <li>1 teaspoon salt</li>
@@ -29,8 +28,9 @@
   <li>4 cups chicken stock</li>
 </ul>
 
-<h3>Red Beans and Rice</h3>
 <img src="images/Red_beans_and_rice.jpg" alt="Red Beans and Rice">
+<p>Original image from <a href="http://joythebaker.com/2015/03/new-orleans-red-beans-and-rice/#more-17863"></a>Joy the Baker.</p>
+<h3>Red Beans and Rice</h3>
 <ul>
   <li>1/2 pound dry kidney beans</li>
   <li>water to cover the beans</li>
@@ -47,6 +47,6 @@
   <li>1/2 teaspoon ground red pepper</li>
   <li>1/4 teaspoon black pepper</li>
 </ul>
-</body>
 <footer><a href="index.html">home page</a></footer>
+</body>
 </html>
