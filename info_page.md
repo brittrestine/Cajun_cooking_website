@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Info Page</title>
+  <title>Recipe page</title>
 </head>
 <body>
 <h1>Cajun Recipes</h1>
