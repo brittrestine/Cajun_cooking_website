@@ -1,23 +1,47 @@
 body {
-  background: lavender;
+    background-image: url("images/lavender.jpg");
+    font-family: cursive;
+  }
+.info {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .Recipe {
   border: 2px solid black;
   padding: 40px;
-  margin: 40px;
   width: 20%;
-  max-width: 250px;
   margin-right: auto;
   margin-left: auto;
+  background: lavender;
 }
 img {
   display: block;
-  margin-right: auto;
   margin-left: auto;
+  margin-right: auto;
 }
-.info {
-  max-width: 250px;
-  margin-left: auto;
-  margin-right: auto;
+.table {
+  background: lavender;
+  margin: 2%;
+}
+h1 {
+  font-size: 2.4em;
+}
+h2, h3, h4 {
+  font-size: 1.5em;
 }
 
+#foot {
+ font-size: .8em;
+}
+.link {
+  color: blue;
+}
+@media screen and (max-width: 500px) {
+  body{
+    font-size: .2em
+  }
+}
+table, td, th {
+  border: 1px solid gray
+   }
